@@ -1,5 +1,3 @@
-
-
 ### About me🧑:
 I am a graduate of mechatronic engineering, starting in the area of ​​Data Analysis.
 
