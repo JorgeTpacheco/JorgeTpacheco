@@ -6,7 +6,7 @@ I'm looking for my first job as a data analyst.
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
 🔭 I am currently taking courses on coursera and udemy.
-- 🌱 I am learning Excell and Tableau.
+- 🌱 I am learning Excell, Power BI, SQL and Python.
 - 👯 I am looking to develop myself for data science.
 - ⚡ Fun fact: I just started with this area and I have learned and studied more than ever in my life and I am happy with what I found and how much this area of ​​work excites me
 
